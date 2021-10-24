@@ -1,14 +1,18 @@
-# Professional Portfolio
+# Portfolio
 
 ## Purpose
-A website top showcase my accomplishments and skills and a beginner developer.
+This repository contains the HTML, CSS, images, and other related elements that compose my inital professional portfolio web page.
 
-## Built With
+### Website Purpose
+To showcase my accomplishments and skills and a beginner web developer.
+
+## Built With:
 * HTML
 * CSS
 
-## Website
+## Live Website URL:
 https://epc318.github.io/Portfolio/
 
 ## Contribution
-Made By Evan Carlson(epc318).
+* Made By Evan Carlson (github username: epc318).
+* No Outside Contibutions are being accepted.
