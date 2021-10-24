@@ -15,7 +15,7 @@ https://epc318.github.io/Portfolio/
 
 ## Author
 * Evan Carlson
-    - github: epc318
+    - github username: epc318
 
 ### Contribution:
-* No Outside Contibutions are being accepted.
+* No Outside Contributions are being accepted.
