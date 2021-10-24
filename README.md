@@ -9,6 +9,9 @@ To showcase my professional portfolio thus far as well as my accomplishments and
 #### Live Website URL
 https://epc318.github.io/Portfolio/
 
+## Source Code Example:
+![Portfolio_Example](https://github.com/epc318/Portfolio/blob/main/Assets/Images_Docs/Source_Code_example.PNG?raw=true)
+
 ## Built With
 * HTML
 * CSS
