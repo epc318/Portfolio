@@ -121,6 +121,12 @@ header {
 }
 /* About Me STYLE end */
 
+.runbud {
+    height: 10%;
+    width: 100%;
+}
+
+/* resume section style start */
 .resume {
     border: 1px solid #000000;
     display: block;
@@ -136,11 +142,13 @@ header {
 .resume:hover {
     background:#9dbcbc;
   }
+  /* resume section style end */
 
+  /* contact me section style start */
   .contact-info {
     font-size: 28px;
     color: cornflowerblue;
-    padding: 0 0 0 10px;
+    padding-left: 20px;
   }
 
   footer {
@@ -149,3 +157,4 @@ header {
     text-align: center;
     color: darkgreen;
   }
+  /* contact me section style end */
