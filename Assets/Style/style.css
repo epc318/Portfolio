@@ -32,7 +32,7 @@ header {
     font-weight: bold;
     margin: 0;
     font-size: 36px;
-    color: #6b6b6b;
+    color: #5e5e5e;
   }
   
   header a {
@@ -91,21 +91,60 @@ header {
 
    /* SECTION TITLE STYLE START */
 .section-title {
-    font-size: 36px;
+    font-size: 40px;
     color: black;
     padding-bottom: 10px;
+    padding-top: 15px;
     text-align: left;
     margin: 5px 15px 0px 15px;
     width: 50%;
   }
   /* SECTION TITLE STYLE END */
 
+    /* About Me STYLE START */
   .overview p {
     line-height: 1.7;
     color: black;
-    width: 80%;
+    width: 65%;
     margin: 0 auto;
-    font-size: 20px;
+    font-size: 24px;
     text-align: center;
-    border: black 3px solid;
+    float: inline-end;
+  }
+
+  .headshot {
+    float: left;
+    margin-left: 25px;
+    max-width: 300px;
+    max-height: 300px;
+    border: black 2px solid;
+}
+/* About Me STYLE end */
+
+.resume {
+    border: 1px solid #000000;
+    display: block;
+    padding: 5px 5px;
+    font-size: 20px;
+    color: #9dbcbc;
+    width: 19%;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.resume:hover {
+    background:#9dbcbc;
+  }
+
+  .contact-info {
+    font-size: 28px;
+    color: cornflowerblue;
+  }
+
+  footer {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: darkgreen;
   }
