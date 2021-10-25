@@ -72,7 +72,7 @@ header {
 
   /* HERO STYLES START */
 .hero {
-    background-image: url('/Assets/Images_Docs/flvMB4V.jpg');
+    background-image: url("/Assets/Images_Docs/flvMB4V.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -131,7 +131,7 @@ header {
 
 .runbud {
     color: darkorange;
-    background-image: url(/Assets/Images_Docs/run_buddy.PNG);
+    background-image: url("/Assets/Images_Docs/run_buddy.PNG");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -147,7 +147,7 @@ header {
 }
 .roboglad {
     color: darkorange;
-    background-image: url(/Assets/Images_Docs/robo_glad.PNG);
+    background-image: url("/Assets/Images_Docs/robo_glad.PNG");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -164,7 +164,7 @@ header {
 
 .Horiseon {
     color: darkorange;
-    background-image: url(/Assets/Images_Docs/horiseon.PNG);
+    background-image: url("/Assets/Images_Docs/horiseon.PNG");
     background-size: cover;
     background-position: center;
     display: flex;
