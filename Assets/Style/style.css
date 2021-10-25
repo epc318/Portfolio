@@ -28,6 +28,11 @@ header {
     z-index: 9999;
   }
 
+.project-links {
+    color: darkkhaki;
+}
+  
+
   header h1 {
     font-weight: bold;
     margin: 0;
@@ -121,10 +126,59 @@ header {
 }
 /* About Me STYLE end */
 
+
+/* project section styling start*/
+
 .runbud {
-    height: 10%;
-    width: 100%;
+    background-image: url(/Assets/Images_Docs/run_buddy.PNG);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-attachment: absolute;
+    height: 275px;
+    font-size: 34px;
+    color: #fce138;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 100px 100px 100px 100px;
 }
+.roboglad {
+    background-image: url(/Assets/Images_Docs/robo_glad.PNG);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-attachment: absolute;
+    height: 200px;
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 70px 70px 70px 70px;
+}
+
+.Horiseon {
+    background-image: url(/Assets/Images_Docs/horiseon.PNG);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-attachment: absolute;
+    height: 150px;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 40px 40px 40px 40px;
+}
+
+/* project section styling end*/
+
 
 /* resume section style start */
 .resume {
@@ -152,7 +206,7 @@ header {
   }
 
   footer {
-    padding: 20px;
+    padding: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     color: darkgreen;
