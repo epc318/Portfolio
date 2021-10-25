@@ -130,6 +130,7 @@ header {
 /* project section styling start*/
 
 .runbud {
+    color: darkorange;
     background-image: url(/Assets/Images_Docs/run_buddy.PNG);
     background-size: cover;
     background-position: center;
@@ -140,12 +141,12 @@ header {
     background-attachment: absolute;
     height: 275px;
     font-size: 34px;
-    color: #fce138;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     padding: 100px 100px 100px 100px;
 }
 .roboglad {
+    color: darkorange;
     background-image: url(/Assets/Images_Docs/robo_glad.PNG);
     background-size: cover;
     background-position: center;
@@ -162,6 +163,7 @@ header {
 }
 
 .Horiseon {
+    color: darkorange;
     background-image: url(/Assets/Images_Docs/horiseon.PNG);
     background-size: cover;
     background-position: center;
@@ -177,6 +179,9 @@ header {
     padding: 40px 40px 40px 40px;
 }
 
+.horiseon-link {
+    color: darkorange;
+}
 /* project section styling end*/
 
 
