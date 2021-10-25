@@ -10,7 +10,7 @@
     background-color: #d9dcd6;
   }
 
-  /* HEADER / NAV BAR STYLES START */
+  /* HEADER Styles Start */
 
 header {
     padding: 20px 35px;
@@ -61,4 +61,51 @@ header {
   header nav ul li a:hover {
     background: #6b6b6b;
     color: #fff5bb;
+  }
+
+  /* HEADER  STYLES End */
+
+  /* HERO STYLES START */
+.hero {
+    background-image: url('/Assets/Images_Docs/flvMB4V.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-attachment: fixed;
+    background-position: 80%;
+  } 
+
+.hero-sub {
+    text-align: Center;
+    margin: 5%;
+    color: black;
+    font-size: 32px;
+    line-height: 1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 0 0 10px rgb(255, 255, 255);
+  }
+   /* HERO STYLES End */
+
+   /* SECTION TITLE STYLE START */
+.section-title {
+    font-size: 36px;
+    color: black;
+    padding-bottom: 10px;
+    text-align: left;
+    margin: 5px 15px 0px 15px;
+    width: 50%;
+  }
+  /* SECTION TITLE STYLE END */
+
+  .overview p {
+    line-height: 1.7;
+    color: black;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    border: black 3px solid;
   }
