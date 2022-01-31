@@ -72,7 +72,7 @@ header {
 
   /* HERO STYLES START */
 .hero {
-    background-image: url("https://github.com/epc318/Portfolio/blob/main/Assets/Images_Docs/flvMB4V.jpg");
+    background-image: url(/Assets/Images_Docs/flvMB4V.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -131,7 +131,7 @@ header {
 
 .parkranger {
   color: darkorange;
-  background-image: url("https://github.com/epc318/Portfolio/blob/main/Assets/Images_Docs/park_ranger.PNG");
+  background-image: url(/Assets/Images_Docs/park_ranger.PNG);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -148,7 +148,7 @@ header {
 
 .heromaps {
   color: darkorange;
-  background-image: url("https://github.com/epc318/Portfolio/blob/main/Assets/Images_Docs/Heromaps.PNG");
+  background-image: url(/Assets/Images_Docs/Heromaps.PNG);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -165,7 +165,7 @@ header {
 
 .runbud {
     color: darkorange;
-    background-image: url("https://github.com/epc318/Portfolio/blob/main/Assets/Images_Docs/run_buddy.PNG");
+    background-image: url(/Assets/Images_Docs/run_buddy.PNG);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -181,7 +181,7 @@ header {
 }
 .roboglad {
     color: darkorange;
-    background-image: url("https://github.com/epc318/Portfolio/blob/main/Assets/Images_Docs/robo_glad.PNG");
+    background-image: url(/Assets/Images_Docs/robo_glad.PNG);
     background-size: cover;
     background-position: center;
     display: flex;
