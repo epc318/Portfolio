@@ -129,6 +129,23 @@ header {
 
 /* project section styling start*/
 
+.parkranger {
+  color: darkorange;
+  background-image: url("https://github.com/epc318/Portfolio/blob/main/Assets/Images_Docs/park_ranger.PNG");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  background-attachment: absolute;
+  height: 240px;
+  font-size: 38px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  padding: 150px 100px 100px 100px;
+}
+
 .heromaps {
   color: darkorange;
   background-image: url("https://github.com/epc318/Portfolio/blob/main/Assets/Images_Docs/Heromaps.PNG");
@@ -139,11 +156,11 @@ header {
   flex-wrap: wrap;
   align-items: flex-start;
   background-attachment: absolute;
-  height: 310px;
-  font-size: 38px;
+  height: 210px;
+  font-size: 34px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
-  padding: 150px 100px 100px 100px;
+  padding: 120px 120px 120px 120px;
 }
 
 .runbud {
@@ -156,11 +173,11 @@ header {
     flex-wrap: wrap;
     align-items: flex-start;
     background-attachment: absolute;
-    height: 240px;
-    font-size: 34px;
+    height: 180px;
+    font-size: 28px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    padding: 100px 100px 100px 100px;
+    padding: 80px 80px 80px 80px;
 }
 .roboglad {
     color: darkorange;
@@ -172,33 +189,13 @@ header {
     flex-wrap: wrap;
     align-items: flex-start;
     background-attachment: absolute;
-    height: 190px;
-    font-size: 28px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold;
-    padding: 70px 70px 70px 70px;
-}
-
-.Horiseon {
-    color: darkorange;
-    background-image: url("https://github.com/epc318/Portfolio/blob/main/Assets/Images_Docs/horiseon.PNG");
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    background-attachment: absolute;
-    height: 120px;
+    height: 150px;
     font-size: 24px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    padding: 40px 40px 40px 40px;
+    padding: 50px 50px 50px 50px;
 }
 
-.horiseon-link {
-    color: darkorange;
-}
 /* project section styling end*/
 
 
