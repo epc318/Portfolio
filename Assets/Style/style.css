@@ -72,7 +72,7 @@ header {
 
   /* HERO STYLES START */
 .hero {
-    background-image: url("flvMB4V.jpg");
+    background: url("../Images_Docs/flvMB4V.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -130,7 +130,7 @@ header {
 /* project section styling start*/
 .cameracast {
   color: darkorange;
-  background-image: url('/Assets/Images_Docs/');
+  background: url('../Images_Docs/');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -147,7 +147,7 @@ header {
 
 .parks {
   color: darkorange;
-  background-image: url("park_ranger.PNG");
+  background: url("../Images_Docs/park_ranger.PNG");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -164,7 +164,7 @@ header {
 
 .heromaps {
   color: darkorange;
-  background-image: url("Heromaps.PNG");
+  background: url("../Images_Docs/Heromaps.PNG");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -181,7 +181,7 @@ header {
 
 .runbud {
     color: darkorange;
-    background-image: url("run_buddy.PNG");
+    background: url("../Images_Docs/run_buddy.PNG");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -197,7 +197,7 @@ header {
 }
 .roboglad {
     color: darkorange;
-    background-image: url("robo_glad.PNG");
+    background: url("../Images_Docs/robo_glad.PNG");
     background-size: cover;
     background-position: center;
     display: flex;
