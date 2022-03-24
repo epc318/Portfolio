@@ -130,7 +130,7 @@ header {
 /* project section styling start*/
 .cameracast {
   color: darkorange;
-  background: url('../Images_Docs/');
+  background: url('../Images_Docs/camera_cast.png');
   background-size: cover;
   background-position: center;
   display: flex;
